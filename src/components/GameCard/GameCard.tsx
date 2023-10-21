@@ -16,7 +16,7 @@ import {
 interface Props {
   image: string;
   alt?: string;
-  description: string;
+  description?: string;
   gameName: string;
 }
 
